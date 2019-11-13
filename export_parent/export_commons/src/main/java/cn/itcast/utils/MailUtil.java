@@ -46,6 +46,7 @@ public class MailUtil {
 
 		//11.关闭
 		transport.close();
+		"1111111111111111"
 	}
 
 }
